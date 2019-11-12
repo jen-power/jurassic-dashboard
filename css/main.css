@@ -3,3 +3,11 @@ html {
   color: #6feff9;
   font-family: "Ubuntu Mono", monospace;
 }
+
+.btn {
+  color: #6feff9;
+}
+
+.glow {
+  filter: drop-shadow(0 0 5px #6feff9);
+}
